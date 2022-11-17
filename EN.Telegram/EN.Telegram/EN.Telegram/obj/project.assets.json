@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\erigert.ndokaj\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj",
+      "projectName": "EN.Telegram",
+      "projectPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj",
+      "packagesPath": "C:\\Users\\erigert.ndokaj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\.nuget\\NuGet.Config",
+        "C:\\Users\\erigert.ndokaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gallery.uipath.com/api/v2": {},
+        "https://nuget.org/api/v2/": {},
+        "https://www.myget.org/F/uipath/": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
