@@ -1,0 +1,20 @@
+﻿EN.Telegram.Activities.Design
+1.0.0.0
+
+library
+C#
+.cs
+C:\Users\erigert.ndokaj\Documents\UiPath Package Location\EN.Telegram\EN.Telegram\EN.Telegram.Activities.Design\obj\Release\net6.0-windows\
+EN.Telegram.Activities.Design
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+
+10-1389738797
+
+231891095502
+215-1485943091
+..\..\Shared\Themes\Generic.xaml;Designers\SendFileDesigner.xaml;Designers\SendMessageDesigner.xaml;Designers\SendPhotoDesigner.xaml;Designers\TelegramScopeDesigner.xaml;Themes\Icons.xaml;C:\Users\erigert.ndokaj\Documents\UiPath Package Location\EN.Telegram\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\erigert.ndokaj\Documents\UiPath Package Location\EN.Telegram\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\erigert.ndokaj\Documents\UiPath Package Location\EN.Telegram\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\erigert.ndokaj\Documents\UiPath Package Location\EN.Telegram\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
+
+False
+
