@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EN.Telegram.Activities</name>
+    </assembly>
+    <members>
+        <member name="P:EN.Telegram.Activities.SendFile.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.SendMessage.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.SendPhoto.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.TelegramScope.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="T:EN.Telegram.Activities.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Authentication_Category">
+            <summary>
+              Looks up a localized string similar to Authentication.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Common_Category">
+            <summary>
+              Looks up a localized string similar to Common.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ContinueOnError_Description">
+            <summary>
+              Looks up a localized string similar to If set, continue executing the remaining activities even if the current activity has failed..
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ContinueOnError_DisplayName">
+            <summary>
+              Looks up a localized string similar to ContinueOnError.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Do">
+            <summary>
+              Looks up a localized string similar to Do.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Input_Category">
+            <summary>
+              Looks up a localized string similar to Input.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Options_Category">
+            <summary>
+              Looks up a localized string similar to Options.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Output_Category">
+            <summary>
+              Looks up a localized string similar to Output.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_CHATID_Description">
+            <summary>
+              Looks up a localized string similar to ID of the receiver of message.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_CHATID_DisplayName">
+            <summary>
+              Looks up a localized string similar to CHAT ID.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_Description">
+            <summary>
+              Looks up a localized string similar to Send a file to a specified usetr.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_DisplayName">
+            <summary>
+              Looks up a localized string similar to Send File.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_FilePath_Description">
+            <summary>
+              Looks up a localized string similar to Local path of the file to be sent.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_FilePath_DisplayName">
+            <summary>
+              Looks up a localized string similar to File Path.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_STATUSCODE_Description">
+            <summary>
+              Looks up a localized string similar to Status code of the reuqest.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendFile_STATUSCODE_DisplayName">
+            <summary>
+              Looks up a localized string similar to STATUS CODE.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_CHATID_Description">
+            <summary>
+              Looks up a localized string similar to ID of the receiver of message.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_CHATID_DisplayName">
+            <summary>
+              Looks up a localized string similar to CHAT ID.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_Description">
+            <summary>
+              Looks up a localized string similar to Send a message to a specific user.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_DisplayName">
+            <summary>
+              Looks up a localized string similar to Send Message.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_MESSAGE_Description">
+            <summary>
+              Looks up a localized string similar to Text message to be sent.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_MESSAGE_DisplayName">
+            <summary>
+              Looks up a localized string similar to MESSAGE.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_STATUSCODE_Description">
+            <summary>
+              Looks up a localized string similar to Status code of the reuqest.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendMessage_STATUSCODE_DisplayName">
+            <summary>
+              Looks up a localized string similar to STATUS CODE.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_CHATID_Description">
+            <summary>
+              Looks up a localized string similar to ID of the receiver of message.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_CHATID_DisplayName">
+            <summary>
+              Looks up a localized string similar to CHAT ID.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_Description">
+            <summary>
+              Looks up a localized string similar to Sends an image to a specific user.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_DisplayName">
+            <summary>
+              Looks up a localized string similar to Send Photo.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_IMAGEPATH_Description">
+            <summary>
+              Looks up a localized string similar to Local path of the image to be sent.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_IMAGEPATH_DisplayName">
+            <summary>
+              Looks up a localized string similar to IMAGE PATH.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_STATUSCODE_Description">
+            <summary>
+              Looks up a localized string similar to Status code of the reuqest.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.SendPhoto_STATUSCODE_DisplayName">
+            <summary>
+              Looks up a localized string similar to STATUS CODE.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.TelegramScope_APITOKEN_Description">
+            <summary>
+              Looks up a localized string similar to The token of the bot.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.TelegramScope_APITOKEN_DisplayName">
+            <summary>
+              Looks up a localized string similar to API TOKEN.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.TelegramScope_Description">
+            <summary>
+              Looks up a localized string similar to Scope to include all telegram activities.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.TelegramScope_DisplayName">
+            <summary>
+              Looks up a localized string similar to Telegram Scope.
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Timeout_Description">
+            <summary>
+              Looks up a localized string similar to Specifies the amount of time (in milliseconds) to wait for the activity to run before an error is thrown. The default value is 60000 (1 minute)..
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Timeout_DisplayName">
+            <summary>
+              Looks up a localized string similar to Timeout (milliseconds).
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.Timeout_Error">
+            <summary>
+              Looks up a localized string similar to The activity timed out and was canceled..
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ValidationExclusiveProperties_Error">
+            <summary>
+              Looks up a localized string similar to Please provide a value either for {0} or {1}, but not both..
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ValidationOverloadGroup_Error">
+            <summary>
+              Looks up a localized string similar to Please provide values for both {0} and {1}..
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ValidationScope_Error">
+            <summary>
+              Looks up a localized string similar to Cannot be used outside of a {0}..
+            </summary>
+        </member>
+        <member name="P:EN.Telegram.Activities.Properties.Resources.ValidationValue_Error">
+            <summary>
+              Looks up a localized string similar to Please provide a value for {0}..
+            </summary>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Contracts.IBaseChildActivity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Gets the services container. This stores the authenticated clients
+            </summary>
+            <param name="context">The context.</param>
+            <param name="propertyName"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Utilities.ChildActivityExtensions">
+            <summary>Provides the standard functionality across activities.</summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
