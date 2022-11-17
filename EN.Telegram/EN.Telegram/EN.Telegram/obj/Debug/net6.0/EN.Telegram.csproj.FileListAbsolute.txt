@@ -1,0 +1,15 @@
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\bin\Debug\net6.0\EN.Telegram.deps.json
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\bin\Debug\net6.0\EN.Telegram.dll
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\bin\Debug\net6.0\EN.Telegram.pdb
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\bin\Debug\net6.0\EN.Telegram.xml
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.csproj.AssemblyReference.cache
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.Properties.Resources.resources
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.csproj.GenerateResource.cache
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.AssemblyInfoInputs.cache
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.AssemblyInfo.cs
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.csproj.CoreCompileInputs.cache
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.dll
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\refint\EN.Telegram.dll
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\EN.Telegram.pdb
+C:\Users\erigert.ndokaj\source\repos\EN.Telegram\EN.Telegram\EN.Telegram\obj\Debug\net6.0\ref\EN.Telegram.dll
