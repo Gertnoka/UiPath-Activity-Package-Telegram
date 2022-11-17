@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities.Design\\EN.Telegram.Activities.Design.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities.Design\\EN.Telegram.Activities.Design.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities.Design\\EN.Telegram.Activities.Design.csproj",
+        "projectName": "EN.Telegram.Activities",
+        "projectPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities.Design\\EN.Telegram.Activities.Design.csproj",
+        "packagesPath": "C:\\Users\\erigert.ndokaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities.Design\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\.nuget\\NuGet.Config",
+          "C:\\Users\\erigert.ndokaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities\\EN.Telegram.Activities.csproj": {
+                "projectPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities\\EN.Telegram.Activities.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Activities.Core.Presentation": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-*, )"
+            },
+            "UiPath.Workflow": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-20220909-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities\\EN.Telegram.Activities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities\\EN.Telegram.Activities.csproj",
+        "projectName": "EN.Telegram.Activities.Implementation",
+        "projectPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities\\EN.Telegram.Activities.csproj",
+        "packagesPath": "C:\\Users\\erigert.ndokaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram.Activities\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\.nuget\\NuGet.Config",
+          "C:\\Users\\erigert.ndokaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj": {
+                "projectPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Activities.Metadata": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-*, )"
+            },
+            "UiPath.Workflow.Runtime": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0-20220909-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj",
+        "projectName": "EN.Telegram",
+        "projectPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\EN.Telegram.csproj",
+        "packagesPath": "C:\\Users\\erigert.ndokaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\EN.Telegram\\EN.Telegram\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location\\EN.Telegram\\.nuget\\NuGet.Config",
+          "C:\\Users\\erigert.ndokaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\erigert.ndokaj\\Documents\\UiPath Package Location": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
